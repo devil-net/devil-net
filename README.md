@@ -68,7 +68,16 @@ A developer and cybersecurity enthusiast interested in how systems work — from
   </tr>
 </table>
 
+
 ### `> github_activity`
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/34483F/devil-net"
+    alt="GitHub contribution calendar"
+    width="100%"
+  />
+</p>
 
 <p align="center">
   <a href="https://github.com/devil-net">
@@ -79,7 +88,6 @@ A developer and cybersecurity enthusiast interested in how systems work — from
   </a>
 </p>
 
----
 
 <p align="center">
   <i>Dev. Break. Build. Repeat.</i>
